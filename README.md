@@ -1,1 +1,1 @@
-# Programming-is-fun
+# Programming is fun
